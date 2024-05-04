@@ -1,5 +1,5 @@
 # Übung in der "praktischen Entwicklung von Medizinprodukten
-> Entwicklung einer automatisierten Handheld-Spritze für präzise Flüssigkeitsabgabe über mechanisch umtauschbaren Kanülen zur Optimierung der Verabreichung des COVID-Impfstoffs.
+Entwicklung einer automatisierten Handheld-Spritze für präzise Flüssigkeitsabgabe über mechanisch umtauschbaren Kanülen zur Optimierung der Verabreichung des COVID-Impfstoffs.
 
 ## Lernziele
 Selbstständige Entwicklung eines medizintechnisches Gerät mit Werkzeugen des/der:
